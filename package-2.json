@@ -1,0 +1,15 @@
+{
+  "name": "nyay-adhikar-voice-server",
+  "version": "1.0.0",
+  "description": "Voice-call IVR backend for Bharatiya Nyay & Adhikar AI",
+  "main": "nyay-adhikar-voice-server.js",
+  "scripts": {
+    "start": "node nyay-adhikar-voice-server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
